@@ -10,8 +10,10 @@ The Video Application is a small web application built with React that serves as
 - **Class and Functional Components:** The application showcases both class-based and functional components to highlight different component styles.
 - **Data Fetching with Axios:** Videos are fetched from an external API using the Axios library to demonstrate data retrieval.
 - https://www.loom.com/share/bc947e4311014c2baeb14255ca8dcc81
+
 ### Live Demo
-**Live demo will be updated soon as the project is complete**
+**Interact with the app [here](https://videos-flax.vercel.app/)**
+
 ### Getting Started
 > To set up and run the Video Application locally, follow these steps:
 - **Clone the repository:** Clone this repository to your local machine using the command:
